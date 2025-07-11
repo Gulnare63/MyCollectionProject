@@ -1,6 +1,5 @@
 package com.example.example.example;
 
-import com.example.example.MySet;
 
 public class MyHashSet<T> implements MySet<T> {
     private static final int CAPACITY = 16;

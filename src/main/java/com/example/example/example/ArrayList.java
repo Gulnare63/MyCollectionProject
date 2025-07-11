@@ -1,6 +1,5 @@
 package com.example.example.example;
 
-import com.example.example.MyList;
 
 public class ArrayList<T> implements MyList<T> {
     T[] elements=(T[])new Object[10];
